@@ -1,0 +1,20 @@
+.round {
+  border-radius: 50%;
+}
+
+.add-btn {
+  float:right;
+  vertical-align: bottom;
+}
+
+.search-bar {
+  border-radius: 25px;
+}
+
+.float-right {
+  float: right;
+}
+
+.mandatory {
+  color: red;
+}
